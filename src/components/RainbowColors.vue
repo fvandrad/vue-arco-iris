@@ -205,9 +205,9 @@ h2::after {
   animation: pulse 1.5s ease-in-out infinite;
 }
 
-.color-card.active .color-sample {
-  /* height: 120px; */
-}
+/* .color-card.active .color-sample {
+  height: 120px;
+} */
 
 .color-info {
   padding: 1rem;
